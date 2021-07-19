@@ -1,0 +1,4 @@
+Flask==2.0.1
+graphene==2.1.8
+better_profanity==0.7.0
+Flask_GraphQL==2.0.1
